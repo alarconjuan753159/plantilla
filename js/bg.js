@@ -12,5 +12,5 @@ function altBg(){
 
 window.onload = function(){
 	setInterval('altBg()', 10000);
-	// 5000 milisegundos equivalente a 5 segundos;
+	// 1000 milisegundos equivalente a 1 segundos;
 }; 
